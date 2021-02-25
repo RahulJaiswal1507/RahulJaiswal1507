@@ -20,7 +20,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
-<p align = "center"> N\ <a href="https://www.linkedin.com/in/rahuljaiswal1507/" >
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]()
+<p align = "center">  <a href="https://www.linkedin.com/in/rahuljaiswal1507/" >
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 </p>
